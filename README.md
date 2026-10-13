@@ -1,6 +1,6 @@
 <div align="center">
 
-# `larrydevillelawrence`
+# `Lawrence Donatus Bukenya`
 
 ### Software Engineering Student · Developer · Problem Solver
 
@@ -8,13 +8,13 @@ Building useful digital experiences, one project at a time.
 
 [Portfolio Website](https://larrydevillelawrence.github.io) · [GitHub](https://github.com/larrydevillelawrence)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:312e81,100:06b6d4&height=160&section=header&text=LARRY%20DEVILLE&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Futuristic banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:312e81,100:06b6d4&height=160&section=header&text=LARRY%20DEVILLE%20LAWRENCE&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Futuristic banner" width="100%" />
 
 </div>
 
 ---
 
-## `whoami`
+## `who am i`
 
 I'm a Software Engineering student interested in building practical software and learning how technology can solve real problems.
 
@@ -58,8 +58,8 @@ My freelance technology initiative for web design and software solutions. Add sp
 
 - **GitHub:** [@larrydevillelawrence](https://github.com/larrydevillelawrence)
 - **Portfolio:** [larrydevillelawrence.github.io](https://larrydevillelawrence.github.io)
-- **Email:** Add your professional email address.
-- **LinkedIn:** Add your profile if you use LinkedIn.
+- **Email:** larrydlawrence2023@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/lawrence-bukenya
 
 <div align="center">
 
